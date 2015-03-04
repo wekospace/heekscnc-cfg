@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <HeeksCAD_Document>
-    <Tool title="3 mm Fraise à Rainurer" tool_number="1" id="5">
-        <params diameter="3" tool_length_offset="127" automatically_generate_title="1" material="1" type="slot_cutter" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="12" />
+    <Tool title="1 mm Fraise de Finition" tool_number="1" id="11">
+        <params diameter="1" tool_length_offset="0" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="30" />
     </Tool>
-    <Tool title="4 mm Foret" tool_number="2" id="6">
-        <params diameter="4" tool_length_offset="100" automatically_generate_title="1" material="1" type="drill" corner_radius="0" flat_radius="0" cutting_edge_angle="59" cutting_edge_height="50.8" />
+    <Tool title="2 mm Fraise de Finition" tool_number="2" id="10">
+        <params diameter="2" tool_length_offset="0" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="10" />
     </Tool>
-    <Tool title="6 mm Fraise à Rainurer" tool_number="3" id="7">
-        <params diameter="6" tool_length_offset="100" automatically_generate_title="1" material="1" type="slot_cutter" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="30" />
+    <Tool title="2.5 mm Fraise de Finition" tool_number="3" id="13">
+        <params diameter="2.5" tool_length_offset="0" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="30" />
+    </Tool>
+    <Tool title="3 mm Fraise de Finition" tool_number="4" id="5">
+        <params diameter="3" tool_length_offset="127" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="12" />
+    </Tool>
+    <Tool title="4 mm Fraise de Finition" tool_number="5" id="9">
+        <params diameter="4" tool_length_offset="0" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="30" />
+    </Tool>
+    <Tool title="5 mm Fraise de Finition" tool_number="6" id="12">
+        <params diameter="5" tool_length_offset="0" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="30" />
+    </Tool>
+    <Tool title="6 mm Fraise de Finition" tool_number="7" id="7">
+        <params diameter="6" tool_length_offset="100" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="30" />
+    </Tool>
+    <Tool title="8 mm Fraise de Finition" tool_number="8" id="8">
+        <params diameter="8" tool_length_offset="0" automatically_generate_title="1" material="0" type="end_mill" corner_radius="0" flat_radius="0" cutting_edge_angle="0" cutting_edge_height="30" />
     </Tool>
 </HeeksCAD_Document>
